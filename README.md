@@ -1,3 +1,5 @@
+[Visit Project's Homepage](https://www.shutterprism.com/Software/FontAwesome) for complete documentation and live examples.
+
 # FontAwesomeMvc
 Font Awesome MVC is a HTML extension that wraps the popular Font Awesome project into friendly Razor syntax.
 
@@ -37,7 +39,3 @@ Everything that font awesome offers is replicated in fluent syntax. So here we w
     Html.FontAwesome().Icon(FontAwesome.FontAwesomeIcons.Square).HtmlAttributes(new { @class = "text-primary" })
 ).Size(FontAwesome.IconSizes.X2).Angle(FontAwesome.IconAngle.Rotate180)
 ```
-
-
-
-To view all these examples, and a little more detailed documentation visit the projects homepage at [Shutter Prism](https://www.shutterprism.com/Software/FontAwesome).
